@@ -22,6 +22,6 @@ Now server is running on port `8080`.
 **For default examples type *http://localhost:8080/example{number}*, where *{number}* is between 1 and 5.**
 
 # Tech Stack
-- Java
-- SpringBoot
+- Java 21
+- SpringBoot (3.2.4)
  
