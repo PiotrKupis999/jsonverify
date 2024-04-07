@@ -6,7 +6,7 @@
 1. Clone the repository from my GitHub:
 
    ```bash
-     git clone https://github.com/PiotrKupis999/jsonverify
+     git clone https://github.com/PiotrKupis999/jsonverify.git
    ```
 2. *Run the Spring Boot app*
 
